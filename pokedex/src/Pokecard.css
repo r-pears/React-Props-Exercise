@@ -1,0 +1,20 @@
+.Pokecard {
+  background-color: #a9b3cc;
+  padding: 40px;
+  border-radius: 5px;
+  transition: all 0.9s;
+  margin: 40px 0;
+}
+
+.Pokecard:hover {
+  transform: scale(1.2);
+  transition: all 0.9s;
+}
+
+.Pokecard-title {
+  color: #2457d9;
+}
+
+.Pokecard-data {
+  font-size: 14px;
+}
